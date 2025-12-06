@@ -89,9 +89,6 @@ Digunakan saat membutuhkan perilaku khusus subclass.
 
 if (a instanceof Dog) ((Dog) a).fetch();
 
-5. Interface dan Desain Abstraksi
-
-Interface seperti Payable memungkinkan kode yang fleksibel, dapat diperluas, dan bebas dari ketergantungan pada tipe konkret.
 5. Interface & Desain Abstraksi
 
 Interface seperti Payable memungkinkan pembuatan kode yang fleksibel dan stabil terhadap perubahan struktur class.
